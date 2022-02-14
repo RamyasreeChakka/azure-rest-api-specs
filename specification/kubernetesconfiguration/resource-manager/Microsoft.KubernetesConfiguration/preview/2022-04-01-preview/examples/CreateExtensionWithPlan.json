@@ -40,6 +40,11 @@
           "lastModifiedByType": "Application",
           "lastModifiedAt": "2021-09-08T05:10:57.027Z"
         },
+        "plan": {
+          "name": "azure-vote-standard",
+          "publisher": "Microsoft",
+          "product": "azure-vote-standard-offer-id"
+        },
         "properties": {
           "extensionType": "azure-vote",
           "autoUpgradeMinorVersion": true,
@@ -72,6 +77,11 @@
           "lastModifiedBy": "string",
           "lastModifiedByType": "Application",
           "lastModifiedAt": "2021-09-08T05:10:57.027Z"
+        },
+        "plan": {
+          "name": "azure-vote-standard",
+          "publisher": "Microsoft",
+          "product": "azure-vote-standard-offer-id"
         },
         "properties": {
           "extensionType": "azure-vote",
